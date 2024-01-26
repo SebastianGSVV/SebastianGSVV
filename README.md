@@ -66,7 +66,7 @@
 <p align="center">
 <h3> 🤝🏻 &nbsp;Me pueden encontrar en...</h3>
 <a href="https://www.linkedin.com/in/sebastian-vazquez-67353722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://sebastianvazquezgsvv.netlify.app/"><img alt="Portafolio-web" src="https://www.github.com/SebitaElGordito/SebitaElGordito/blob/main/sebita.png"></a> 
+<a href="https://sebastianvazquezgsvv.netlify.app/"><img alt="Portafolio-web" src="[https://www.github.com/SebitaElGordito/SebitaElGordito/blob/main/sebita.png](https://github.com/SebitaElGordito/SebitaElGordito/blob/main/sebita.png)https://github.com/SebitaElGordito/SebitaElGordito/blob/main/sebita.png"></a> 
 </p>
 
 
