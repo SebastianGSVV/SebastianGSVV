@@ -63,13 +63,14 @@
 <br/>
 </p>
 
-<p align="center">
+
 <h3> 🤝🏻 &nbsp;Me pueden encontrar en...</h3>
-<a href="https://www.linkedin.com/in/sebastian-vazquez-67353722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">]([URL](https://www.linkedin.com/in/sebastian-vazquez-67353722b/"><img alt="LinkedIn))
+
 
 <a href="https://sebastianvazquezgsvv.netlify.app/" style="display: flex; align-items: center;">Portfolio</a>
 
 <a href="https://sebastianvazquezgsvv.netlify.app/"><img width=120px height=120px alt="Web" src="sebita.png"></a> 
-</p>
+
 
 
