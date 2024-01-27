@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp; About me...  </h3>
 
-- ❤️ &nbsp; Me apasiona la idea de estar creando modelos matemáticos para resolver alguna tarea del mundo real.
-- 🎓 &nbsp; Actualmente estoy estudiando en Soy Henry la carrera de Ciencia de Datos.
-- 💼 &nbsp; Estoy abierta a oportunidades laborales relacionadas con Machine Learning y Análisis de datos.
-- 🌱 &nbsp; Me encuentro continuamente estudiando y aprendiendo nuevas tecnologías.
+- 🔭 &nbsp;I am passionate about technology, ecology and nature... chess and classical music... running and biking.
+- 💼 &nbsp; I am open to job opportunities, knowing that experience will make me a better data professional.
+- 🌱 &nbsp; Since 2020, I have been continuously studying and learning new technologies.
+- 🎓 &nbsp; I am currently studying Data Science at "Soy Henry". 
 
-<h3> 🛠 &nbsp;Habilidades técnicas</h3>
+<h3> 🛠 &nbsp;Technical skills.</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -56,15 +56,15 @@
 <br/>
 
 <a href="[https://github.com/AVS1508](https://github.com/SebitaElGordito)">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SebitaElGordito&theme=buefy&show_icons=true" /> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebitaElGordito&theme=buefy&show_icons=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 </p>
 
 
-<h3> 🤝🏻 &nbsp;Me pueden encontrar en...</h3>
+<h3> 🤝🏻 &nbsp;You can find me on...</h3>
 <a href="https://www.linkedin.com/in/sebastian-vazquez-67353722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>.   .   .   .   .   .
 <a href="https://sebastianvazquezgsvv.netlify.app/"><img width=50px height=50px alt="Web" src="sebita.png"></a> Netlify
 
