@@ -31,26 +31,26 @@
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![ApacheCassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apache-cassandra&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
 - 🔧 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
+  ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
 - 📊 &nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![DVC](https://img.shields.io/badge/-DVC-333333?style=flat&logo=dvc)
+  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=VirtualBox)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-  ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Putty](https://img.shields.io/badge/-Putty-333333?style=flat&logo=putty)
 - ☁️ &nbsp;
-  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
-  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
 
   <h3> 🛠 &nbsp;Technical skills Full Stack.</h3>
 
