@@ -11,7 +11,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📚 &nbsp;
@@ -54,7 +54,7 @@
 
   <h3> 🛠 &nbsp;Technical skills Full Stack.</h3>
 
-  - 💻 &nbsp;
+- 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
