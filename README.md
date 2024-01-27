@@ -65,7 +65,7 @@
 
 
 <h3> 🤝🏻 &nbsp;You can find me on...</h3>
-<a href="https://www.linkedin.com/in/sebastian-vazquez-67353722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>.   .   .   .   .   .
+<a href="https://www.linkedin.com/in/sebastian-vazquez-67353722b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>💬💬💬💬💬
 <a href="https://sebastianvazquezgsvv.netlify.app/"><img width=50px height=50px alt="Web" src="sebita.png"></a> Netlify
 
 
