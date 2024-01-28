@@ -1,4 +1,4 @@
-<h2> <img width=80px height=80px alt="Web" src="sebita.png"> Hi... I am Sebastian Vazquez!!</h2>
+<h1> <img width=80px height=80px alt="Web" src="sebita.png"> Hi... I am Sebastian Vazquez!!</h1>
 
 <h3> 👨🏻‍💻 &nbsp; About me...  </h3>
 
