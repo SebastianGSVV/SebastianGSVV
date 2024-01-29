@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I am passionate about technology, ecology and nature... chess and classical music... running and biking.
 - 💼 &nbsp; I am open to job opportunities, knowing that experience will make me a better data professional.
-- 🌱 &nbsp; Since 2020, I have been continuously studying and learning new technologies.
+- 🌱 &nbsp; Since 2020, I have been continuously studying and learning new technologies on my own.
 - 🎓 &nbsp; I am currently studying Data Science at "Soy Henry". 
 
 <h3> 🛠 &nbsp;Technical skills Data Science.</h3>
