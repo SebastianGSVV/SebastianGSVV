@@ -76,9 +76,9 @@
 <p align="center">
 <br/>
 
-<a href="[https://github.com/AVS1508](https://github.com/SebitaElGordito)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebitaElGordito&theme=buefy&show_icons=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=buefy&layout=compact" />
+<a href="[https://github.com/AVS1508](https://github.com/SebastianGSVV)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebastianGSVV&theme=buefy&show_icons=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGSVV&theme=buefy&layout=compact" />
 </a>
 
 <br/>
