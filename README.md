@@ -10,8 +10,8 @@
 <br/>
 
 <a href="[https://github.com/AVS1508](https://github.com/SebastianGSVV)">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SebastianGSVV&theme=dark&show_icons=true" /> 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGSVV&theme=dark&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SebastianGSVV&theme=dark&show_icons=true" /> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGSVV&theme=dark&layout=compact" />
 </a>
 
 <br/>
