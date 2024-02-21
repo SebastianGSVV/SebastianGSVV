@@ -7,14 +7,18 @@
 - 🌱 &nbsp; Since 2020, I have been continuously studying and learning new technologies on my own.
 - 🎓 &nbsp; I am currently studying Data Science at "Soy Henry". 
 
+<p align="center">
 <br/>
 
+
 <a href="[https://github.com/AVS1508](https://github.com/SebastianGSVV)">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SebastianGSVV&theme=dark&show_icons=true" /> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGSVV&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebastianGSVV&theme=dark&show_icons=true" /> 
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGSVV&theme=dark&layout=compact" />
 </a>
 
 <br/>
+</p>
 
 <h3> 🛠 &nbsp;Technical skills Data Science.</h3>
 
@@ -81,10 +85,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<p align="center">
-
-</p>
 
 
 <h3> 🤝🏻 &nbsp;You can find me on...</h3>
