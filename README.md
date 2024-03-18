@@ -1,6 +1,16 @@
 <h1> <img width=80px height=80px alt="Web" src="sebita.png"> Hola... Yo soy Sebastian Vazquez!! <br>
  Hi... I am Sebastian Vazquez!!</h1>
 
+
+ <h3> 👨🏻‍💻 &nbsp; Sobre mí...  </h3>
+
+- 🔭 &nbsp; Me apasiona la tecnología, la ecología y la naturaleza... el ajedrez y la música clásica... correr y andar en bicicleta.
+- 💼 &nbsp; Estoy abierto a oportunidades laborales, sabiendo que la experiencia me convertirá en un mejor profesional de datos.
+- 🌱 &nbsp; Desde 2020 he estado estudiando y aprendiendo continuamente nuevas tecnologías por mi cuenta.
+- 🎓 &nbsp; Actualmente estoy estudiando Ciencia de Datos en "Soy Henry". 
+
+<br/>
+
 <h3> 👨🏻‍💻 &nbsp; About me...  </h3>
 
 - 🔭 &nbsp; I am passionate about technology, ecology and nature... chess and classical music... running and biking.
