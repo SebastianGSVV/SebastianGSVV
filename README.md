@@ -28,6 +28,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=dark&layout=compact" />
 </a>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebitaElGordito&theme=nightowl&hide_border=false" height="187.5"/>
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebitaElGordito&theme=nightowl&hide_border=false" height="153" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebitaElGordito&theme=nightowl&hide_border=true" height="153" />
+  </div>
+</div>
+
 <br/>
 </p>
 
