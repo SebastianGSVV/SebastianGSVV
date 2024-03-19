@@ -25,18 +25,12 @@
 <a href="[https://github.com/AVS1508](https://github.com/SebitaElGordito)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebitaElGordito&theme=dark&show_icons=true" /> 
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=dark&layout=compact" /> 
+  <br>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebitaElGordito&theme=dark&hide_border=false" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SebitaElGordito&theme=dark&hide_border=true" />
 </a>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebitaElGordito&theme=nightowl&hide_border=false" height="187.5"/>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebitaElGordito&theme=nightowl&hide_border=false" height="153" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebitaElGordito&theme=nightowl&hide_border=true" height="153" />
-  </div>
-</div>
-
-<br/>
 </p>
 
 <h3> 🛠 &nbsp;Technical skills Data Science.</h3>
