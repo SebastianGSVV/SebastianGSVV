@@ -25,11 +25,12 @@
 <a href="[https://github.com/AVS1508](https://github.com/SebitaElGordito)">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SebitaElGordito&theme=dark&show_icons=true&hide_border=true" /> 
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=dark&layout=compact&hide_border=true" /> 
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SebitaElGordito&theme=dark&hide_border=true" />
+   
   <br>
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebitaElGordito&theme=dark&hide_border=false" />
   
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SebitaElGordito&theme=dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=dark&layout=compact&hide_border=true" />
 </a>
 </p>
 
