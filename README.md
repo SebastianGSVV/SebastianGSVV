@@ -1,5 +1,5 @@
 <h1> <img width=80px height=80px alt="Web" src="sebita.png"> Hola... Yo soy Sebastian Vazquez!! <br>
- Hi... I am Sebastian Vazquez!!</h1>
+ Hi... I am Sebastian Vazquez!! </h1>
 
 
  <h3> 👨🏻‍💻 &nbsp; Sobre mí...  </h3>
