@@ -67,7 +67,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Putty](https://img.shields.io/badge/-Putty-333333?style=flat&logo=putty)
 - ☁️ &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
+  
 
 <h3> 🛠 &nbsp;Technical skills Full Stack.</h3>
 
